@@ -1,0 +1,17 @@
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\api\CreateOrderRequest.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\CafeApplication.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\infrastructure\OrderEventRepository.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\infrastructure\OrderRepository.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\readmodel\OrderReadModelRepository.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\shared\common\DomainEventPublisher.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\readmodel\OrderReadModel.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\application\OrderApplicationService.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\api\OrdersController.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\shared\common\LoggingEventPublisher.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\infrastructure\OrderEvent.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\shared\contracts\events\OrderCreated.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\api\OrderResponse.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\domain\OrderStatus.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\shared\outbox\OutboxEvent.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\shared\outbox\OutboxEventRepository.java
+C:\Users\julia\Desktop\CoffeMarketplace\CoffeMarketplace\src\main\java\com\acme\cafe\orders\domain\Order.java

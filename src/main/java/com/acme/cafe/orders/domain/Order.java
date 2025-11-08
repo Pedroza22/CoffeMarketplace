@@ -41,4 +41,22 @@ public class Order {
         o.createdAt = Instant.now();
         return o;
     }
+
+    public void markPaid() {
+        if (this.status == OrderStatus.NEW) {
+            this.status = OrderStatus.PAID;
+        }
+    }
+
+    public void cancel() {
+        if (this.status == OrderStatus.NEW || this.status == OrderStatus.PAID) {
+            this.status = OrderStatus.CANCELLED;
+        }
+    }
+
+    public void fulfill() {
+        if (this.status == OrderStatus.PAID) {
+            this.status = OrderStatus.FULFILLED;
+        }
+    }
 }
